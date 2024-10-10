@@ -1,1 +1,2 @@
-# -C-Users-aman-mishra-OneDrive-project-folder-sentiment-project-ds-varsha-roll-no-18.pdf-
+# sentiment analysis of social media post.
+# complete project by using python programming
